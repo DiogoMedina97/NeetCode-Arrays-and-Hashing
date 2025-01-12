@@ -1,4 +1,4 @@
-import Solution from './index';
+const Solution = require('./index.js');
 
 describe('Contains Duplicate', () => {
   const solution = new Solution();

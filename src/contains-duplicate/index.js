@@ -9,4 +9,4 @@ class Solution {
   }
 }
 
-export default Solution;
+module.exports = Solution;
